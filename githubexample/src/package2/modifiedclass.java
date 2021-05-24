@@ -6,14 +6,7 @@ public class modifiedclass {
 		System.out.println("Class A printing");
 		
 
-		System.out.println("in branch ownbranch");
-		System.out.println("in ownbranch");
-		
-		System.out.println("again master");
-
-		
-		
-		System.out.println("in second");
+		System.out.println("in third");
 
 
 	}
