@@ -13,7 +13,7 @@ public class modifiedclass {
 
 		
 		
-		System.out.println("in second");
+		System.out.println("confirmed in maser");
 
 
 	}
