@@ -1,4 +1,4 @@
-package githubexample.pakage1;
+package package2;
 
 public class modifiedclass {
 
